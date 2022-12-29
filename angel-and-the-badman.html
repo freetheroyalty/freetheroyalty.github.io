@@ -17,19 +17,32 @@
 
     .download {
       font-size: 1.5rem;
+      border-radius: 4px;
+      margin: 3px;
+      padding: 3px;
+      background-color: red;
+      transition: all .5s;
+      color: whitesmoke;
+      border: solid 3px whitesmoke;
+      text-shadow: 2px 2px 2px gray;
     }
 
     .download:hover,
     .download:active {
-      background-color: darkred;
+      background-color: whitesmoke;
+      color: darkred;
     }
 
     .navbar {
-      background-color: #333;
+      background-color: red !important;
     }
 
     .navbar a {
-      color: white;
+      color: whitesmoke !important;
+      text-shadow: 1px 1px 1px gray;
+      padding: 3px;
+      border-radius: 2px;
+      transition: all .5s;
     }
 
     .navbar a:hover {
@@ -43,6 +56,7 @@
       height: 0;
       overflow: hidden;
       margin-bottom: 10%;
+      border-radius: 15px;
     }
 
     .video-container iframe,
@@ -72,7 +86,7 @@
   <script>
     function downloadFile(url) {
       var link = document.createElement("a");
-      link.download = "TheTrailBeyond1934.mp4";
+      link.download = "AngelAndTheBadman.mp4";
       link.href = url;
       link.click();
     }
@@ -111,7 +125,7 @@
   <br><br>
   <h1>Angel And The Badman</h1>
   <div class="container mt-5">
-    <div class="video-container">
+    <div class="video-container" id="video">
       <iframe id="video" src="https://ia600409.us.archive.org/5/items/Angel.and.the.Badman/Angel.and.the.Badman.m4v"
         frameborder="0" allowfullscreen></iframe>
     </div>
