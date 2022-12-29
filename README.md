@@ -1,4 +1,4 @@
-<h1>FreeTheRoyalty.com</h1>
+<h1><a href="https://FreeTheRoyalty.com>FreeTheRoyalty.com</a></h1>
 <p>Welcome to the FreeTheRoyalty.com Github Pages site! We are a free royalty free content site that provides high-quality images, videos, and other media for creators to use in their projects.</p>
 <h2>Features</h2>
 <ul>
