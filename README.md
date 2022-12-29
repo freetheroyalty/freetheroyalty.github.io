@@ -12,4 +12,6 @@
 <h2>Contributions</h2>
 <p>We welcome contributions from the community! If you have high-quality media that you would like to contribute to our library, please get in touch with us by submitting a pull request or contacting us through the <a href="/contact">contact form</a>.</p>
 <h2>Support</h2>
-<p>If you need help using our site or have any questions, please don't hesitate to reach out to us through the <a href="/contact">contact form</a>. We are here to help!</p>
+<p>If you need help using our site or have any questions, please don't hesitate to reach out to us through <a href="mailto:david@njweb.solutions">email</a>. We are here to help!</p>
+<h2>Contribute</h2>
+If you would like to contribute please contact me.
