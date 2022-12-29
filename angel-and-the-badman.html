@@ -60,9 +60,11 @@
       overflow: hidden;
       margin-bottom: 10%;
       border-radius: 15px;
+      text-align: center;
+      background-color: black;
     }
 
-    .video-container iframe,
+    .video-container video,
     .video-container object,
     .video-container embed {
       position: absolute;
@@ -122,15 +124,16 @@
   </nav>
   <br>
   <button class="download"
-    onclick="downloadFile('https://ia600409.us.archive.org/5/items/Angel.and.the.Badman/Angel.and.the.Badman.m4v')">
+    onclick="downloadFile('https://ia802706.us.archive.org/10/items/AngelAndTheBadManVideoQualityUpgrade/AngelAndTheBadManVideoQualityUpgrade.mp4')">
     Download File
   </button>
   <br><br>
   <h1>Angel And The Badman</h1>
   <div class="container mt-5">
     <div class="video-container" id="video">
-      <iframe id="video" src="https://ia600409.us.archive.org/5/items/Angel.and.the.Badman/Angel.and.the.Badman.m4v"
-        frameborder="0" allowfullscreen></iframe>
+      <video
+        src="https://ia802706.us.archive.org/10/items/AngelAndTheBadManVideoQualityUpgrade/AngelAndTheBadManVideoQualityUpgrade.mp4"
+        controls></video>
     </div>
   </div>
   <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"

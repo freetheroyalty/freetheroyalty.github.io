@@ -60,9 +60,11 @@
       overflow: hidden;
       margin-bottom: 10%;
       border-radius: 15px;
+      text-align: center;
+      background-color: black;
     }
 
-    .video-container iframe,
+    .video-container video,
     .video-container object,
     .video-container embed {
       position: absolute;
@@ -128,8 +130,7 @@
   <h1>The Deadly Companions</h1>
   <div class="container mt-5">
     <div class="video-container" id="video">
-      <iframe src="https://ia800108.us.archive.org/32/items/tdc1104552/tdc1104552.mp4" frameborder="0"
-        allowfullscreen></iframe>
+      <video src="https://ia800108.us.archive.org/32/items/tdc1104552/tdc1104552.mp4" controls></video>
     </div>
   </div>
   <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
