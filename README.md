@@ -14,4 +14,4 @@
 <h2>Support</h2>
 <p>If you need help using our site or have any questions, please don't hesitate to reach out to us through <a href="mailto:david@njweb.solutions">email</a>. We are here to help!</p>
 <h2>Contribute</h2>
-If you would like to contribute please contact me.
+If you would like to contribute please contact me via <a href="mailto:david@njweb.solutions">email</a>.
