@@ -10,6 +10,6 @@
 <h2>How to Use</h2>
 <p>Using our site is easy! Simply browse or search our library to find the media you need, and then download it to use in your project. Be sure to read and adhere to our <a href="/terms-of-use">terms of use</a> to ensure that you are using our media responsibly and in compliance with the rules of our site.</p>
 <h2>Contributions</h2>
-<p>We welcome contributions from the community! If you have high-quality media that you would like to contribute to our library, please get in touch with us by submitting a pull request or contacting us through the <a href="/contact">contact form</a>.</p>
+<p>We welcome contributions from the community! If you have high-quality media that you would like to contribute to our library, please get in touch with us by submitting a pull request or contacting us through at <a href="mailto:freetheroyalty@njweb.solutions">freetheroyalty@njweb.solutions</a>.</p>
 <h2>Support</h2>
-<p>If you need help using our site or have any questions, please don't hesitate to reach out to us through the <a href="/contact">contact form</a>. We are here to help!</p>
+<p>If you need help using our site or have any questions, please don't hesitate to reach out to us through <a href="mailto:freetheroyalty@njweb.solutions">email</a>. We are here to help!</p>
